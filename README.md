@@ -9,10 +9,10 @@
 I primarily develop in java
 
 ### 💻 Im currently working on
-* [Memeware](https://discord.gg/poop)
+* [Memeware]
 
 ### 📫 Contact Me
-* Bleepo#2561
+* Bleepo#3775
 
 ### 🧰 Languages and Tools:
 <p align="center">
@@ -28,5 +28,3 @@ I primarily develop in java
 <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="VS Code" height="45" style="vertical-align:top; margin:4px">
 </p>
 
-
-![](https://komarev.com/ghpvc/?username=Bleepooo&color=blue)
